@@ -4,5 +4,6 @@ class repo_check
     {
         System.out.println("Hello Work");
         System.out.println("Hi");
+        System.out.println("New line "); // done by Sarah
     }
 }
