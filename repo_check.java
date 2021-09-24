@@ -5,6 +5,7 @@ class repo_check
         System.out.println("Hello Work");
         System.out.println("Hi");
         System.out.println("New line "); // done by Sarah
-        System.out.println("New New line"); // done by Faaizah 
+        System.out.println("New New line"); // done by Faaizah
+        System.out.println("New edit by Sstuti");
     }
 }
